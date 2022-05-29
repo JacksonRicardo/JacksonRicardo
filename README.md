@@ -1,6 +1,6 @@
 ### Hi, I’m @JacksonRicardo 👋 
 
-- I am a student of systems analysis and development
+- I am a student of Systems Analysis and Development
 - I'm currently studying BackEnd development with Django and Python.
 
 
