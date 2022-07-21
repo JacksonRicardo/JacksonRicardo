@@ -11,11 +11,11 @@ You can click the Preview link to take a look at your changes.
 
 ### Languages and Tools 
 <p align="center">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"  width="40" height="40" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg"  width="40" height="40" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40"/>
-<hr>
-
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"  width="40" height="40" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg"  width="40" height="40" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40"/>
+   <hr>
+</p>
 
 
 <p align="center">
@@ -27,7 +27,9 @@ You can click the Preview link to take a look at your changes.
 
 
 <div> 
-</a>&nbsp;&nbsp;&nbsp;&nbsp;
- <a href="https://www.linkedin.com/in/jackson-r-1910021b2/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+   <p align="center">
+    </a>&nbsp;&nbsp;&nbsp;&nbsp;
+    <a href="https://www.linkedin.com/in/jackson-r-1910021b2/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+   </p>
 </div>
 
