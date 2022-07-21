@@ -26,3 +26,8 @@ You can click the Preview link to take a look at your changes.
 </p>
 
 
+<div> 
+</a>&nbsp;&nbsp;&nbsp;&nbsp;
+ <a href="https://www.linkedin.com/in/jackson-r-1910021b2/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+</div>
+
