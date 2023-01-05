@@ -29,9 +29,9 @@ You can click the Preview link to take a look at your changes.
 
 <div> 
    <p align="center">
-     <a href = "mailto:jackson.r@escolar.ifrn.edu.br"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=red" target="_blank"></a>&nbsp;&nbsp;&nbsp;&nbsp;
-    </a>&nbsp;&nbsp;&nbsp;&nbsp;
-    <a href="https://www.linkedin.com/in/jackson-r-1910021b2/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+     <a href = "mailto:jackson.r@escolar.ifrn.edu.br"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=red" target="_blank"></a>&nbsp;&nbsp;&nbsp;
+    <a href="https://www.linkedin.com/in/jackson-r-1910021b2/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a></a>&nbsp;&nbsp;&nbsp;
    </p>
 </div>
+
 
