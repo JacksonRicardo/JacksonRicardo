@@ -27,6 +27,8 @@ You can click the Preview link to take a look at your changes.
   </a>
 </p>
 
+<hr>
+
 <div> 
    <p align="center">
      <a href = "mailto:jackson.r@escolar.ifrn.edu.br"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=red" target="_blank"></a>&nbsp;&nbsp;&nbsp;
