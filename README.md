@@ -3,7 +3,7 @@
 - I am a student of Systems Analysis and Development
 - I'm currently studying BackEnd development with Django and Python.
 
-- Portfolio:[ https://sites.google.com/view/jackson-ricardo/](https://jacksonricardo.com.br)
+- Portfolio:[ https://jacksonricardo.com.br/](https://jacksonricardo.com.br)
 
 
 <!---
