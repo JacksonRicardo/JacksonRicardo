@@ -47,5 +47,9 @@
 ## 📈 GitHub stats
 
 <p align="center">
-  <img src="./github-metrics.svg" alt="GitHub metrics">
+  <a https://github.com/JacksonRicardo>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=JacksonRicardo&count_private=true&show_icons=true&theme=omni"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JacksonRicardo&layout=compact&theme=omni"/>
+  </a>
 </p>
+
