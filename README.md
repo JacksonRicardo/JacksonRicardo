@@ -19,7 +19,7 @@
 - 📊 I work with data science: <your focus, e.g. predictive modeling, NLP, analytics>
 - 🌱 Currently deepening my backend skills with **Django** and **Python**
 - 💬 Ask me about: <topics>
-- 📫 Reach me at: jackson.r@escolar.ifrn.edu.br
+- 📫 Reach me at: jackson2016.ricardo@gmail.com
 
 ## 🛠️ Tech stack
 
