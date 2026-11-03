@@ -1,50 +1,35 @@
-<h1 align="center">Hi there, I'm Jackson Ricardo <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"></h1>
+<h1 align="center"> Hi there, I'm Jackson Ricardo <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"> </h1>
 
+I have a degree in Systems Analysis and Development
+I'm currently studying BackEnd development with Django and Python.
+
+Portfolio:[ https://jacksonricardo.com.br/](https://jacksonricardo.com.br)
+
+<!---
+JacksonRicardo/JacksonRicardo is a ✨ special ✨ repository because its README.md (this file) appears on your GitHub profile.
+You can click the Preview link to take a look at your changes.
+--->
+
+### Languages and Tools 
 <p align="center">
-  <b>Data Science · Python · Backend Development</b><br>
-  Natal, RN - Brazil
+     <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"><img src="https://cdn.worldvectorlogo.com/logos/django.svg"  width="40" height="40" /></a>
+    <a href="https://www.linux.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/></a>
+    <a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"  width="40" height="40" /></a>
+    <a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40"/></a>
+    <a href="https://github.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" width="40" height="40" alt="GitHub" /></a>
+     <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" width="40" height="40" alt="postgresql"/></a>
+     </a>
+   <hr>
 </p>
 
-<p align="center">
-  <a href="https://jacksonricardo.com.br/"><img src="https://img.shields.io/badge/Portfolio-222?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio"></a>
-  <a href="https://www.linkedin.com/in/jackson-r-1910021b2/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
-  <a href="mailto:jackson.r@escolar.ifrn.edu.br"><img src="https://img.shields.io/badge/Email-333?style=for-the-badge&logo=gmail&logoColor=red" alt="Email"></a>
-</p>
+<!--<hr>-->
 
----
-
-## 👨‍💻 About me
-
-- 🎓 Degree in Systems Analysis and Development
-- 📊 I work with data science: <your focus, e.g. predictive modeling, NLP, analytics>
-- 🌱 Currently deepening my backend skills with **Django** and **Python**
-- 💬 Ask me about: <topics>
-- 📫 Reach me at: jackson2016.ricardo@gmail.com
-
-## 🛠️ Tech stack
-
-**Languages & frameworks**
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![Django](https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white)
-
-**Data science**
-
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
-![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white)
-![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white)
-
-**Databases & tools**
-
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
-
-
-## 📈 GitHub stats
+<div> 
+   <p align="center">
+     <a href = "mailto:jackson.r@escolar.ifrn.edu.br"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=red" target="_blank"></a>&nbsp;&nbsp;&nbsp;
+    <a href="https://www.linkedin.com/in/jackson-r-1910021b2/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a></a>&nbsp;&nbsp;&nbsp;
+   </p>
+</div>
 
 <p align="center">
   <a https://github.com/JacksonRicardo>
@@ -52,4 +37,3 @@
     <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JacksonRicardo&layout=compact&theme=omni"/>
   </a>
 </p>
-
