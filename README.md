@@ -43,6 +43,11 @@
 </p>
 
 
+<p align="center">
+  <img src="./profile-summary-card-output/github_dark/0-profile-details.svg" alt="Profile details"/>
+  <img src="./profile-summary-card-output/github_dark/2-most-commit-language.svg" alt="Most used languages"/>
+</p>
+
 
 <!---
 JacksonRicardo/JacksonRicardo is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
