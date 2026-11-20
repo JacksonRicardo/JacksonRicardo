@@ -40,10 +40,8 @@
 <p align="center">
   <img height="180" src="https://streak-stats.demolab.com/?user=JacksonRicardo&theme=dark" alt="GitHub streak"/>
   <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JacksonRicardo&layout=compact&theme=omni&cache_seconds=86400" alt="Top languages"/>
-
-
-    <img height="180" src="https://github-readme-stats.vercel.app/api?username=JacksonRicardo&count_private=true&show_icons=true&theme=omni" alt="GitHub stats"/>
-    <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JacksonRicardo&layout=compact&theme=omni" alt="Top languages"/>
+  <img height="180" src="https://github-readme-stats.vercel.app/api?username=JacksonRicardo&count_private=true&show_icons=true&theme=omni" alt="GitHub stats"/>
+  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JacksonRicardo&layout=compact&theme=omni" alt="Top languages"/>
 </p>
 
 
